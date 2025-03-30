@@ -1,0 +1,9 @@
+kitchen
+entry
+bath
+garage
+storage
+bedroom
+livingroom
+outdoor
+balcony
