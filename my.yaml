@@ -1,0 +1,5 @@
+path: C:\Users\lkl\Desktop\cvdata
+train: train
+val: val
+nc: 9
+names: ['kitchen','entry','bath','garage','storage','bedroom','livingroom','outdoor','balcony']
